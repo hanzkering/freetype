@@ -15,8 +15,8 @@ import (
 
 	"github.com/golang/freetype/raster"
 	"github.com/golang/freetype/truetype"
-	"golang.org/x/image/font"
-	"golang.org/x/image/math/fixed"
+	"golang/image/font"
+	"golang/image/math/fixed"
 )
 
 // These constants determine the size of the glyph cache. The cache is keyed
